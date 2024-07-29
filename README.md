@@ -24,4 +24,3 @@
 
 <h3 align="center">Statistics:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlianzk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jlianzk" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlianzk&show_icons=true&theme=tokyonight&locale=en" alt="jlianzk" /></p>
