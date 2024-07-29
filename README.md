@@ -2,7 +2,7 @@
 <h3 align="center">Hello there! I'm Lian, a passionate Web Developer</h3>
 <p align="center">
 I’m currently learning <b>CSS, HTML, Javascript, Solidity & PHP</b><br>
-All of my projects are available at <a href="https://github.com/jLianzk">Github</a><br>
+All of my projects are available on <a href="https://github.com/jLianzk">Github</a><br>
 I regularly write articles on <a href="https://jlianzk.medium.com">Medium</a>
 </p>
 <h3 align="center">Contact me</h3>
