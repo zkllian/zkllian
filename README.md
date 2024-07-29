@@ -1,11 +1,12 @@
 <h1 align="center">About me</h1>
-<h3 align="center">Hello there! I'm Lian, a passionate Web Developer.</h3>
+<h3 align="center">Hello there! I'm Lian, a passionate Web Developer</h3>
 <p align="center">
 I’m currently learning <b>CSS, HTML, Javascript, Solidity & PHP</b><br>
 All of my projects are available at <a href="https://github.com/jLianzk">Github</a><br>
-I regularly write articles on <a href="https://jlianzk.medium.com">Medium</a><br><br>
-Reach me out <b>jlianzk@gmail.com</b>
+I regularly write articles on <a href="https://jlianzk.medium.com">Medium</a>
 </p>
+<h3 align="center">Contact me</h3>
+<p align="center">jlianzk@gmail.com</p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/jlianzk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jlianzk" height="30" width="40" /></a>
