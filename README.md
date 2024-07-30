@@ -5,7 +5,7 @@ I’m currently learning <b>CSS, HTML, Javascript, Python, PHP & Solidity</b><br
 All of my projects are available on <a href="https://github.com/jLianZK">Github</a><br>
 I regularly write articles on <a href="https://jLianZK.medium.com">Medium</a>
 </p>
-<h3 align="center">Contact me</h3>
+<h3 align="center">Contact</h3>
 <p align="center">jLianZK@gmail.com</p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
