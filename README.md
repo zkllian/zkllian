@@ -1,7 +1,7 @@
 <h1 align="center">About me</h1>
 <h3 align="center">Hello there! I'm Lian, a passionate Web Developer</h3>
 <p align="center">
-I’m currently learning <b>CSS, HTML, Javascript, Solidity & PHP</b><br>
+I’m currently learning <b>CSS, HTML, Javascript, Python, PHP & Solidity</b><br>
 All of my projects are available on <a href="https://github.com/jLianZK">Github</a><br>
 I regularly write articles on <a href="https://jLianZK.medium.com">Medium</a>
 </p>
@@ -11,7 +11,7 @@ I regularly write articles on <a href="https://jLianZK.medium.com">Medium</a>
 <p align="center">
 <a href="https://twitter.com/jLianZK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jLianZK" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yoga-aprilliansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoga-aprilliansyah" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jLianZK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jLianZK" height="30" width="40" /></a>
+<a href="https://stackoverflow.cm/users/jLianZK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jLianZK" height="30" width="40" /></a>
 <a href="https://fb.com/jLianZK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jLianZK" height="30" width="40" /></a>
 <a href="https://instagram.com/jLianZK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jLianZK" height="30" width="40" /></a>
 <a href="https://medium.com/@jLianZK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jLianZK" height="30" width="40" /></a>
