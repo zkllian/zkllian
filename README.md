@@ -1,7 +1,7 @@
 <h1 align="center">About me</h1>
 <h3 align="center">Hello there! I'm Lian, a passionate Web Developer</h3>
 <p align="center">
-I’m currently learning <b>CSS, HTML, Javascript, Python, PHP & Solidity</b><br>
+I’m currently learning <b>Javascript, Python, PHP & Solidity</b><br>
 All of my projects are available on <a href="https://github.com/jLianZK">Github</a><br>
 I regularly write articles on <a href="https://jLianZK.medium.com">Medium</a>
 </p>
