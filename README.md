@@ -1,5 +1,5 @@
 <h1 align="center">About me</h1>
-<h3 align="center">Hi! I'm jlian, a passionate Frontend Developer & Content Writer</h3>
+<h3 align="center">Hi! I'm Llian, a passionate Frontend Developer & Content Writer</h3>
 <p align="center">
 I’m currently learning <b>Javascript, Python, PHP & Solidity</b> & active contributing on some crypto blockchain projects.<br><br>
 All of my projects are available on <a href="https://github.com/jlianzk">Github</a>.<br><br>
