@@ -5,8 +5,6 @@ I’m currently learning <b>Javascript, Python, PHP & Solidity</b> & active cont
 All of my projects are available on <a href="https://github.com/LlianZK">Github</a>.<br><br>
 I regularly write articles on <a href="https://LlianZK.medium.com">Medium</a>
 </p>
-<h3 align="center">Contact</h3>
-<p align="center">LlianZK@gmail.com</p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/LlianZK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LlianZK" height="30" width="40" /></a>
