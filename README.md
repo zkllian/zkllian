@@ -3,7 +3,7 @@
 <p align="center">
 I’m currently learning <b>Javascript, Python, PHP & Solidity</b> & active contributing on some crypto blockchain projects.<br><br>
 All of my projects are available on <a href="https://github.com/llianzk">Github</a>.<br><br>
-i regularly write articles on <a href="https://llianzk.medium.com">Medium</a>
+I regularly write articles on <a href="https://llianzk.medium.com">Medium</a>
 </p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
