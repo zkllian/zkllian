@@ -1,8 +1,10 @@
 <h1 align="center">About me</h1>
-<h3 align="center">Hi! i'm llian, a passionate Front-end Developer & Content Writer</h3>
+<h3 align="center">Hi! i'm Llian, a passionate Front-end developer.</h3>
 <p align="center">
-I’m currently learning <b>Javascript, Python, PHP & Solidity</b> & active contributing on some crypto blockchain projects.<br><br>
-All of my projects are available on <a href="https://github.com/llianzk">Github</a>.<br><br>
+I’m currently learning <b>Java, Python, PHP and Solidity</b>
+<br>
+<br>
+All of my projects are available on <a href="https://github.com/llianzk">GitHub</a>.<br><br>
 I regularly write articles on <a href="https://llianzk.medium.com">Medium</a>
 </p>
 <h3 align="center">Connect with me</h3>
