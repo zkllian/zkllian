@@ -1,11 +1,5 @@
 <h1 align="center">About me</h1>
-<h3 align="center">Hi! i'm Llian, a passionate Front-end developer.</h3>
-<p align="center">
-I’m currently learning <b>Java, Python, PHP and Solidity</b>
-<br>
-<br>
-All of my projects are available on <a href="https://github.com/llianzk">GitHub</a>.<br><br>
-I regularly write articles on <a href="https://llianzk.medium.com">Medium</a>
+<p align="center">Hello! I'm llian a passionate front-end developer. I’m currently learning <b>Java, Python, PHP and Solidity. All of my projects are available on <a href="https://github.com/llianzk">GitHub</a></hp>
 </p>
 <h3 align="center">Connect with me</h3>
 <p align="center">
